@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+}
+
+p{
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.2rem;
+    font-weight: 100;
+    padding-bottom: 2rem;
+}
+
+.navbar{
+    border: 1px solid black;
+    padding: 1.4rem;
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav{
+    padding-bottom: 3rem;
+    position: relative;
+    width: max-content;
+    left: 75rem;
+}
+
+main{
+    padding-top: 2rem;
+    background-color: lightgray;
+    height: 83rem;
+}
+
+.foto1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 24rem;
+}
+
+.foto2{
+    display: flex;
+    padding-top: 14px;
+    gap: 10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    right: 20rem;
+}
+
+.foto3{
+    position: relative;
+    left: 40.4rem;
+    bottom: 78.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    padding-top: 8rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+.coracao1{
+    position: relative;
+    right: 820px;
+    top: 320px;
+}
+
+.coracao2{
+    position: relative;
+    right: 830px;
+    top: 320px;
+}
+
+.coracao3{
+    position: relative;
+    right: 480px;
+    top: 320px;
+}
+
+.coracao4{
+    position: relative;
+    right: 420px;
+    top: 358px;
+}
+
+button{
+    background-color: white;
+    border: none;
+}
+
+.sites{
+    position: relative;
+    padding: 2rem;
+    right: 640px;
+}
